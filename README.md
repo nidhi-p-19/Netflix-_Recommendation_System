@@ -1,4 +1,5 @@
-🍿 Netflix Movie Recommendation System
+##🍿 Netflix Movie Recommendation System
+
 Welcome to the Netflix Recommendation System, where machine learning meets movie magic 🎥✨.
 This project is a Content-Based Filtering model built to recommend movies similar to your favorite ones. Instead of relying on user ratings (Collaborative Filtering), this system reads the content — think genres, plots, keywords — and finds patterns that align with your movie preferences.
 
